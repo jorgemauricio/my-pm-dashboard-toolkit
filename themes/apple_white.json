@@ -1,0 +1,15 @@
+{
+    "name": "Apple Minimalist",
+    "dataColors": ["#007AFF", "#5856D6", "#FF9500", "#FF3B30", "#34C759", "#64D2FF", "#AF52DE", "#8E8E93"],
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [{ "show": true, "color": { "solid": { "color": "#FBFBFD" }}, "transparency": 0 }],
+                "border": [{ "show": true, "color": { "solid": { "color": "#E5E5EA" }}, "radius": 20 }],
+                "dropShadow": [{ "show": true, "color": { "solid": { "color": "#000000" }}, "transparency": 90, "shadowPreset": "Outer" }]
+            }
+        }
+    }
+}
