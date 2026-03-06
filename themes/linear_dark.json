@@ -1,0 +1,14 @@
+{
+    "name": "Linear Dark",
+    "dataColors": ["#5E6AD2", "#4DBB7F", "#26B5CE", "#FF7051", "#B160E2", "#F4D03F", "#6E7681", "#FFFFFF"],
+    "background": "#0B0E14",
+    "foreground": "#FFFFFF",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [{ "show": true, "color": { "solid": { "color": "#16191F" }}, "transparency": 0 }],
+                "border": [{ "show": true, "color": { "solid": { "color": "#2A2E37" }}, "radius": 8 }]
+            }
+        }
+    }
+}
